@@ -61,7 +61,7 @@ import {Link as LinkS} from 'react-scroll'
     cursor: pointer;
 
     &:hover{
-        color: #01bf71;
+        color: #4343db;
         transition: 0.2s ease-in-out;
     }
  `
@@ -72,21 +72,22 @@ import {Link as LinkS} from 'react-scroll'
  `
 
  export const SidebarRoute = styled(LinkR)`
-    border-radius: 50px;
-    background: #01bf71;
+    border-radius: 10px;
+    background: transparent;
+    border: 1px solid #4343db;
     white-space: nowrap;
     padding: 16px 64px;
-    color: #010686;
+    color: #fff;
     font-size: 16px;
     outline: none;
-    border: none;
     cursor: pointer;
     transition: all 0.2s ease-in-out;
     text-decoration: none;
 
     &:hover{
         transition: all 0.2s ease-in-out;
-        background: #fff;
-        color: #010686;
+        background: #4343db;
+    
+        color: #fff;
     }
  `
