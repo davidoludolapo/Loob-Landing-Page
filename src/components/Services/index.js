@@ -12,32 +12,32 @@ function Services() {
             <ServicesWrapper>
                 <ServicesCard>
                     <ServicesIcon src={Icon1}/>
-                    <ServicesH2>Reduce Expenses</ServicesH2>
+                    <ServicesH2>LoremIpsum</ServicesH2>
                     <ServicesP>Lorem ipsum dolor sit amet consectetur adipisicing.</ServicesP>
                 </ServicesCard>
                 <ServicesCard>
                     <ServicesIcon src={Icon2}/>
-                    <ServicesH2>Virtual Offices</ServicesH2>
+                    <ServicesH2>LoremIpsum</ServicesH2>
                     <ServicesP>Lorem ipsum dolor sit amet consectetur adipisicing.</ServicesP>
                 </ServicesCard>
                 <ServicesCard>
                     <ServicesIcon src={Icon3}/>
-                    <ServicesH2>Premium Benefits</ServicesH2>
+                    <ServicesH2>PLoremIpsum</ServicesH2>
                     <ServicesP>Lorem ipsum dolor sit amet consectetur adipisicing.</ServicesP>
                 </ServicesCard>
                 <ServicesCard>
                     <ServicesIcon src={Icon3}/>
-                    <ServicesH2>Premium Benefits</ServicesH2>
+                    <ServicesH2>PLoremIpsum</ServicesH2>
                     <ServicesP>Lorem ipsum dolor sit amet consectetur adipisicing.</ServicesP>
                 </ServicesCard>
                 <ServicesCard>
                     <ServicesIcon src={Icon3}/>
-                    <ServicesH2>Premium Benefits</ServicesH2>
+                    <ServicesH2>PLoremIpsum</ServicesH2>
                     <ServicesP>Lorem ipsum dolor sit amet consectetur adipisicing.</ServicesP>
                 </ServicesCard>
                 <ServicesCard>
                     <ServicesIcon src={Icon3}/>
-                    <ServicesH2>Premium Benefits</ServicesH2>
+                    <ServicesH2>PLoremIpsum</ServicesH2>
                     <ServicesP>Lorem ipsum dolor sit amet consectetur adipisicing.</ServicesP>
                 </ServicesCard>
             </ServicesWrapper>
