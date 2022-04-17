@@ -90,7 +90,7 @@ function Navbar({ toggle }) {
                   exact="true"
                   offset={-80}
                  >
-                  Sign Up
+                  Join Us
                 </NavLinks>
               </NavItem>
             </NavMenu>

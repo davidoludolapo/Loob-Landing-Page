@@ -25,21 +25,6 @@ function Services() {
                     <ServicesH2>PLoremIpsum</ServicesH2>
                     <ServicesP>Lorem ipsum dolor sit amet consectetur adipisicing.</ServicesP>
                 </ServicesCard>
-                <ServicesCard>
-                    <ServicesIcon src={Icon3}/>
-                    <ServicesH2>PLoremIpsum</ServicesH2>
-                    <ServicesP>Lorem ipsum dolor sit amet consectetur adipisicing.</ServicesP>
-                </ServicesCard>
-                <ServicesCard>
-                    <ServicesIcon src={Icon3}/>
-                    <ServicesH2>PLoremIpsum</ServicesH2>
-                    <ServicesP>Lorem ipsum dolor sit amet consectetur adipisicing.</ServicesP>
-                </ServicesCard>
-                <ServicesCard>
-                    <ServicesIcon src={Icon3}/>
-                    <ServicesH2>PLoremIpsum</ServicesH2>
-                    <ServicesP>Lorem ipsum dolor sit amet consectetur adipisicing.</ServicesP>
-                </ServicesCard>
             </ServicesWrapper>
         </ServicesContainer>
     </>

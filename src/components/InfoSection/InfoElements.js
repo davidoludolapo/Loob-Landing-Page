@@ -35,17 +35,17 @@ export const InfoRow = styled.div`
 
 export const Column1 = styled.div`
     margin-bottom: 10px;
-    padding: 0 30px;
+    padding: 0 15px;
     grid-area: col1;
 `
 export const Column2 = styled.div`
     margin-bottom: 10px;
-    padding: 0 30px;
+    padding: 0 15px;
     grid-area: col2;
 `
 
 export const TextWrapper = styled.div`
-    max-width: 540px;
+    max-width: 540px; 
     padding-top: 0;
     padding-bottom: 60px;
 `
@@ -65,11 +65,12 @@ export const Heading = styled.h1`
     font-size: 48px;
     line-height: 1.1;
     font-weight: 400;
-    width: 600px;
+    /* width: 600px; */
     color: ${({lightText}) => (lightText ? '#f7f8fa' : '#010606')};
 
     @media screen and (max-width: 480px) {
         font-size: 32px;
+        /* width: 100px; */
     }
 `
 
